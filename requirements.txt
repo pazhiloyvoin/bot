@@ -1,0 +1,7 @@
+ccxt
+telebot
+pandas 
+numpy 
+time
+schedule
+
